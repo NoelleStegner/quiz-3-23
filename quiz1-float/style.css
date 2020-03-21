@@ -1,0 +1,8 @@
+
+div{
+  columns: 3;
+}
+
+.column {
+  float: left;
+}
